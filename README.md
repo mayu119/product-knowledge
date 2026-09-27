@@ -45,6 +45,7 @@
 | [`patterns/progression/`](patterns/progression/README.md) | 解放、マスター、コレクション、星・実績 |
 | [`patterns/habit/`](patterns/habit/README.md) | ストリーク、デイリー、復帰、さびつき |
 | [`patterns/information/`](patterns/information/README.md) | 画面構成、状態表示、エラー、オンボ以外の案内 |
+| [`patterns/visual/`](patterns/visual/README.md) | 色・タイポ・コンポーネント・マスコット・モーション |
 | [`references/`](references/README.md) | 外部事例・競合・OSS の解析（未蒸留） |
 | [`apps/`](apps/README.md) | アプリごとの体験採用・ドメインルール |
 
@@ -61,8 +62,9 @@
 | ファイル | 内容 |
 |---|---|
 | [docs/INITIAL-DESIGN.md](docs/INITIAL-DESIGN.md) | repo 立ち上げの設計正本（GK との分離理由・ディレクトリ・運用） |
-| [references/2026-09-27-dopa-drill.md](references/2026-09-27-dopa-drill.md) | 第 1 号参照実装の快感設計分解 |
+| [references/2026-09-27-dopa-drill.md](references/2026-09-27-dopa-drill.md) | 第 1 号参照実装の快感・コアループ分解 |
+| [references/2026-09-27-dopa-drill-design.md](references/2026-09-27-dopa-drill-design.md) | 同上のビジュアル・UI・モーション分解 |
 
 ## 最初の参照実装
 
-- [ドパドリル（dopa-drill）解析](references/2026-09-27-dopa-drill.md) — コアループ・快感設計の分解（[初期設計](docs/INITIAL-DESIGN.md) 策定のきっかけ）
+- [ドパドリル（dopa-drill）解析](references/2026-09-27-dopa-drill.md) — コアループ・快感（[デザイン分解](references/2026-09-27-dopa-drill-design.md) あり）

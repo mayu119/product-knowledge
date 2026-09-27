@@ -15,3 +15,4 @@
 | 進行・コレクション | `patterns/progression/` |
 | 習慣化・復帰 | `patterns/habit/` |
 | UI・情報設計 | `patterns/information/` |
+| 色・タイポ・コンポーネント・モーション | `patterns/visual/` |
