@@ -56,6 +56,13 @@
 4. **アプリに降ろす**: `apps/<app>.md` に採用判断・実装メモ
 5. **数字は GK へ**: 施策を出荷して計測したら Growth Knowledge の `apps/` と `measurement/experiments.md` に結果を書く
 
+## ドキュメント
+
+| ファイル | 内容 |
+|---|---|
+| [docs/INITIAL-DESIGN.md](docs/INITIAL-DESIGN.md) | repo 立ち上げの設計正本（GK との分離理由・ディレクトリ・運用） |
+| [references/2026-09-27-dopa-drill.md](references/2026-09-27-dopa-drill.md) | 第 1 号参照実装の快感設計分解 |
+
 ## 最初の参照実装
 
-- [ドパドリル（dopa-drill）解析](references/2026-09-27-dopa-drill.md) — コアループ・快感設計の分解例
+- [ドパドリル（dopa-drill）解析](references/2026-09-27-dopa-drill.md) — コアループ・快感設計の分解（[初期設計](docs/INITIAL-DESIGN.md) 策定のきっかけ）
