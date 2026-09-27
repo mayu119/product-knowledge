@@ -52,7 +52,8 @@ product-knowledge/
 │   ├── feedback/             # 即時 FB、音・動き、マイクロ報酬
 │   ├── progression/          # 解放、マスター、コレクション
 │   ├── habit/                # ストリーク、デイリー、復帰、さび
-│   └── information/          # 日常 UI、状態表示、エラー（オンボ到達は GK）
+│   ├── information/          # 日常 UI、状態表示、エラー（オンボ到達は GK）
+│   └── visual/               # 色、タイポ、コンポーネント、マスコット、モーション
 ├── references/               # 外部事例・OSS・競合の解析（未蒸留）
 └── apps/                     # アプリ固有の体験採用・ドメインルール
 ```
@@ -121,13 +122,15 @@ product-knowledge/
 立ち上げと同時に入れた参照実装:
 
 - [ドパドリル（dopa-drill）解析](../references/2026-09-27-dopa-drill.md) — コアループ・快感設計の分解（Product Knowledge 第 1 号 references）
-- [core-loop/guide.md](../patterns/core-loop/guide.md) — 上記から蒸留した 4 原理
+- [ドパドリル デザイン分解](../references/2026-09-27-dopa-drill-design.md) — 色・UI・マスコット・モーション
+- [core-loop/guide.md](../patterns/core-loop/guide.md) — 快感から蒸留した 4 原理
+- [visual/guide.md](../patterns/visual/guide.md) — デザインから蒸留した 6 原理
 
 ## 今後足す候補（未着手）
 
 - `apps/wordsforme.md` — 問い→答え→着地、ドーパミン→安堵（GK `apps/wordsforme.md` 817 行付近の設計）
 - `apps/honnecard.md` — reveal 峰值、感情と課金の分離
-- Growth Knowledge README への相互リンク 1 行
+- ~~Growth Knowledge README への相互リンク 1 行~~ ✅ 2026-09-27
 - Linear プロジェクト（Growth Knowledge 並び、任意）
 
 ## 関連リンク

@@ -5,6 +5,7 @@
 - 仕様: リポジトリ `docs/SPEC.md`（数式・閾値まで公開）
 - 解析日: 2026-09-27
 - きっかけ: Product Knowledge 立ち上げの第 1 号参照実装。GK には入れず、体験・コアループ側に分解。
+- デザイン分解: [2026-09-27-dopa-drill-design.md](./2026-09-27-dopa-drill-design.md)
 
 ## 概要
 
@@ -198,7 +199,8 @@ E = 0.08 + 0.92 × (i/(N−1))^1.3    （1 問だけのとき E = 1）
 | 音・BGM・ドパ表示 | `patterns/feedback/candidates.md` |
 | 非ガチャコレ、星、タイムカプセル | `patterns/progression/candidates.md` |
 | さび、デイリー、ノーカン、シール | `patterns/habit/candidates.md` |
-| のびたよ、段階ヒント | `patterns/information/candidates.md` |
+| のびたよ、段階ヒント、製品内ツアー | `patterns/information/candidates.md` |
+| 色・タイポ・UI・lv 連動・マスコット | `patterns/visual/` ✅ guide — [デザイン分解](./2026-09-27-dopa-drill-design.md) |
 
 ---
 
@@ -206,6 +208,9 @@ E = 0.08 + 0.92 × (i/(N−1))^1.3    （1 問だけのとき E = 1）
 
 | パス | 役割 |
 |---|---|
+| `app/style.css` | デザイントークン、コンポーネント、body.lv 連動 |
+| `app/js/dopakichi.js` | マスコット overlay・表情・物理 |
+| `app/js/guide.js` | 製品内ツアー（UI が語る、非台詞） |
 | `app/js/scoring.js` | ドパ曲線、コンボ倍率、表示フォーマット |
 | `app/js/fx.js` | 粒子・花火・テキスト演出 |
 | `app/js/audio.js` | BGM 合成・テンポ |
