@@ -1,0 +1,5 @@
+# Local build/runtime artifacts
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
