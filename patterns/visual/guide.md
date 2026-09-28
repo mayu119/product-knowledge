@@ -43,7 +43,7 @@
 ## UI 部品は 1 ファイル 1 責務で所有
 
 - 外部 UI ライブラリをブラックボックス依存にせず、**1 部品 = 1 ファイル** をプロジェクトに取り込み、コードを完全に所有する
-- `#Preview` と `Style` 構造体を正本にし、部品間で **アクセシビility 契約**（Reduce Motion、Dynamic Type、セマンティックカラー）を揃える
+- `#Preview` と `Style` 構造体を正本にし、部品間で **アクセシビリティ契約**（Reduce Motion、Dynamic Type、セマンティックカラー）を揃える
 - 出典: [SwiftPieces](../../references/2026-09-27-swiftpieces.md)
 
 ## Liquid Glass は Material フォールバック必須
