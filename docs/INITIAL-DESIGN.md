@@ -3,6 +3,8 @@
 作成: 2026-09-27  
 ステータス: 採用（repo 立ち上げ時の設計正本）
 
+> **向かう先**（ミッション・スコープ・ユースケース）→ [NORTH-STAR.md](NORTH-STAR.md)
+
 ## 背景
 
 [Growth Knowledge](https://github.com/mayu119/growth-knowledge) は **転換・課金・獲得・計測** の横断 OS として機能している。テーマは paywall / onboarding / marketing / ugc / measurement が中心。

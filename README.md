@@ -61,6 +61,7 @@
 
 | ファイル | 内容 |
 |---|---|
+| [docs/NORTH-STAR.md](docs/NORTH-STAR.md) | **向かう先** — ミッション、スコープ B、Logic 境界、テンプレート定義 |
 | [docs/INITIAL-DESIGN.md](docs/INITIAL-DESIGN.md) | repo 立ち上げの設計正本（GK との分離理由・ディレクトリ・運用） |
 | [references/2026-09-27-dopa-drill.md](references/2026-09-27-dopa-drill.md) | 第 1 号参照実装の快感・コアループ分解 |
 | [references/2026-09-27-dopa-drill-design.md](references/2026-09-27-dopa-drill-design.md) | 同上のビジュアル・UI・モーション分解 |
