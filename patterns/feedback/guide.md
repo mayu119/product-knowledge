@@ -1,6 +1,6 @@
 # フィードバック設計 — 原理（蒸留済み）
 
-最終更新: 2026-09-28
+最終更新: 2026-09-29
 
 ## 操作単位の即時 FB
 
@@ -62,3 +62,10 @@
 - 報酬 UI の峰值だけでなく、**次の FB までの間隔・予測可能なリズム** を設計する
 - 供給サイクルを短くするとテンポが上がり、間隔を空けると期待が溜まる — セッション目的に合わせて選ぶ
 - 出典: [watanabe-manga-pacing](../../references/2026-04-07-watanabe-manga-pacing-dopamine.md), [idesho-dopamine-prediction](../../references/2026-08-24-idesho-dopamine-prediction-vs-reward.md)
+
+## 可変比率強化は領域で使い分ける
+
+- 報酬の **タイミング・内容がランダム** だと習慣化は強いが、**不透明・不公平感** を招きやすい
+- 教育・習慣・子供向けは **確定報酬・条件明示**（progression）を優先 — 課金ゲーム以外ではランダム箱を避ける
+- ランダム FB を使う場合も **感情体力**（habit）と整合 — 当たらないたびの失望・損失表示を避ける
+- 出典: [irresistible](../../references/2026-09-29-irresistible.md)
