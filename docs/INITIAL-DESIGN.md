@@ -5,6 +5,8 @@
 
 > **向かう先**（ミッション・スコープ・ユースケース）→ [NORTH-STAR.md](NORTH-STAR.md)
 
+> **2026-09-29 更新**: [NORTH-STAR.md](NORTH-STAR.md) が PK スコープの正本。本書に残る「体験のみ」「iOS のみ」「足場・API・auth を PK 外とする」記述は **上書き済み**。足場（`patterns/scaffold/`）とプラットフォーム非依存方針は NORTH-STAR を参照。
+
 ## 背景
 
 [Growth Knowledge](https://github.com/mayu119/growth-knowledge) は **転換・課金・獲得・計測** の横断 OS として機能している。テーマは paywall / onboarding / marketing / ugc / measurement が中心。
