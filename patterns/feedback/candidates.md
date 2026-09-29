@@ -14,3 +14,4 @@
 | 2026-09-27 | スクラブ連動ハプティック | 同上 | RingBreakdown — 構成リングのスクラブ + 触覚 FB（SwiftUI Haptics ガイドとセット） — guide へ蒸留済 |
 | 2026-09-27 | 軽量トースト | 同上 | Toast — 単一トーストカード、非ブロッキング FB — guide へ蒸留済 |
 | 2026-09-27 | AI 思考・ストリーミング状態 | 同上 | ThinkingState, StreamingReply, AssistantOrb, ThoughtOrb — 待機/生成中/トークン表示 — guide へ蒸留済 |
+| 2026-09-29 | 可変比率強化（ランダム報酬） | [irresistible](../../references/2026-09-29-irresistible.md) | 報酬タイミング・内容のランダム。教育系は確定報酬と対比 |
