@@ -15,3 +15,7 @@
 | 2026-09-27 | カルーセル・メディアビューア | 同上 | DepthCarousel, PhotoViewer, StoryStrip — ギャラリー・全画面写真・Stories UI — guide へ蒸留済 |
 | 2026-09-27 | データ表示タイル（KPI・カウンター・スクラブチャート） | 同上 | LiveStat, Odometer, ScrubChart — ダッシュボード数値・スコア表示・時系列探索 — guide へ蒸留済 |
 | 2026-09-27 | AI コンポーザー UI | 同上 | PromptChips, CodeBlock — プロンプト候補チップ・コードブロック（チャット/ドキュメント） — guide へ蒸留済 |
+| 2026-10-11 | ウィジェット 3 タブ = アプリ唯一の分類軸 | [widget-yatta](../../references/2026-10-11-widget-yatta.md) | 情報階層を「いつやるか」1 次元に固定 |
+| 2026-10-11 | ヘッダ件数 + インライン CTA | 同上 | 今日 + 1 + ＋ — 追加動線を右端に固定 |
+| 2026-10-11 | KPI 縦スタック（TODAY → 数字 → GOAL → バー → 達成） | [widget-steppy](../../references/2026-10-11-widget-steppy.md) | 左 60% 読み上げ順 — F パターン短縮 |
+| 2026-10-11 | デュアルカラム metric + mascot | 同上 | 左数値・右感情 — 1 ウィジェット 2 役 |

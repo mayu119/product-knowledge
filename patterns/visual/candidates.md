@@ -17,3 +17,11 @@
 | 2026-09-27 | Metal 背景・オーブ演出 | 同上 | Silk, TouchGrid, AssistantOrb, ThoughtOrb — Metal 3 必須 3 件 + Canvas グリッド — guide へ蒸留済 |
 | 2026-09-27 | ドラッグ dismiss モーション | 同上 | DragToDismiss — 2 軸ドラッグでシート/カード/写真を閉じる ViewModifier — guide へ蒸留済 |
 | 2026-09-27 | テキスト演出（リビール・Glass・省略展開） | 同上 | TextReveal（文字/単語/行リビール）, GlassText（Liquid Glass 輪郭）, ExpandableText（もっと見るフェード） — guide へ蒸留済 |
+| 2026-10-11 | ダーク + 1 アクセント（オレンジ） | [widget-yatta](../../references/2026-10-11-widget-yatta.md) | CTA・active タブ・完了チェック同色 — ウィジェットでも body.lv 不要の単色フィードバック |
+| 2026-10-11 | マスコット watermark（低 opacity 中央） | 同上 | リスト空白時もブランド — focal ノッチマスコットとセット |
+| 2026-10-11 | pill-in-pill 3 セグメント | 同上 | 今日/あとで/いつか — 底固定・全幅 |
+| 2026-10-11 | 完了テキスト = アクセント desaturate | 同上 | 打ち消し線なし — 「終わった温かさ」 |
+| 2026-10-11 | 2 色ピクセル（背景 + ink） | [widget-steppy](../../references/2026-10-11-widget-steppy.md) | ライム × 黒 — アクセント増やさない |
+| 2026-10-11 | 二重枠プログレスバー | 同上 | レトロ UI — fill 率だけで達成 |
+| 2026-10-11 | OK! ネガバッジ（黒地白字） | 同上 | 2–3 語達成 — 横にひらがな説明 |
+| 2026-10-11 | XP マス + ドット + 次進化名 | 同上 | `KID` チラ見せ — ウィジェット下部 1 行 |
