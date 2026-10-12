@@ -12,6 +12,7 @@
 | `mofuweather.md` | 天気体験、キャラ、通知 |
 | `wordsforme.md` | 問い→答え→着地、棚・カレンダー |
 | `forbear.md` | 週次、mission、キャラポーズ |
+| `asajitaku.md` | 朝の支度タイマー: 液晶 UI、コンボ・クエスト・成長・CHAIN |
 | `focusbridge.md` | （必要に応じて） |
 | `pawcalm.md` | （必要に応じて） |
 
