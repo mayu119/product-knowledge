@@ -22,3 +22,5 @@
 | 2026-10-11 | 二層時間 UI（上: 現在時刻 / 下: 区間タイマー） | [time-sense-ui](../../references/2026-10-11-time-sense-ui.md) | 同じ円形語彙で役割分担 — 未蒸留 OK |
 | 2026-10-11 | 12h + 24h + 分目盛の同心 hierarchy | 同上 | 1 画面多スケール — 必要なリングだけ実装可 |
 | 2026-10-11 | 中央デジタル + 周辺アナログ/扇形 | 同上 | 正確さと intuition の二重符号化 |
+| 2026-10-14 | 問題提起 → 解決の言語化（見た目より優先） | [pre-build-destiny-sns-marketing](../../references/2026-10-14-pre-build-destiny-sns-marketing.md) | guide へ蒸留済 |
+| 2026-10-14 | App Store 一行・初回説明 = 価値文 | 同上 | guide へ蒸留済 |

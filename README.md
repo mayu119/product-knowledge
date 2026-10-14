@@ -69,6 +69,7 @@ GK: プロダクトをどう売る・伸ばすか（マーケ + マネタイズ 
 | [docs/INITIAL-DESIGN.md](docs/INITIAL-DESIGN.md) | repo 立ち上げの設計正本（GK との分離理由・ディレクトリ・運用） |
 | [references/2026-09-27-dopa-drill.md](references/2026-09-27-dopa-drill.md) | 第 1 号参照実装の快感・コアループ分解 |
 | [references/2026-09-27-dopa-drill-design.md](references/2026-09-27-dopa-drill-design.md) | 同上のビジュアル・UI・モーション分解 |
+| [references/2026-10-14-pre-build-destiny-sns-marketing.md](references/2026-10-14-pre-build-destiny-sns-marketing.md) | ビルド前の運命 — 価値言語化と設計段階（SNS 実感、数字は GK 外） |
 
 ## 最初の参照実装
 

@@ -14,3 +14,5 @@
 | 2026-09-29 | 数値目標の未達不快感 | [irresistible](../../references/2026-09-29-irresistible.md) | guide へ蒸留済 |
 | 2026-09-29 | フロー状態 | 同上 | guide へ蒸留済 |
 | 2026-09-29 | クリフハンガー（ツァイガルニク） | 同上 | guide へ蒸留済 |
+| 2026-10-14 | ビルド前に運命の大部分が決まる | [pre-build-destiny-sns-marketing](../../references/2026-10-14-pre-build-destiny-sns-marketing.md) | guide へ蒸留済 |
+| 2026-10-14 | 小学生テスト — 価値が一言で言える | 同上 | guide へ蒸留済 |

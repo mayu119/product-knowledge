@@ -16,3 +16,4 @@
 | 2026-10-11 | 歩数でペット起こす（Walk to wake） | [widget-steppy](../../references/2026-10-11-widget-steppy.md) | HealthKit 日次 GOAL — 未達 sleep / 達成 sparkle |
 | 2026-10-11 | DAY N + 進化段階ラベル | 同上 | BABY • DAY 1 — 日次リズム + progression 橋 |
 | 2026-10-11 | ウィジェット常時可視で歩数・気分 | 同上 | アプリを開かない習慣ループ |
+| 2026-10-14 | リテンション高 × 獲得遅 — 設計上悪ではない | [pre-build-destiny-sns-marketing](../../references/2026-10-14-pre-build-destiny-sns-marketing.md) | guide へ蒸留済 |
