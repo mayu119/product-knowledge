@@ -1,3 +1,20 @@
+> # ⛔ このrepoは凍結した（2026-10-15）
+>
+> **正本は [`mayu119/knowledge`](https://github.com/mayu119/knowledge) の `product-knowledge/` 配下に移した。
+> ここには書かない。**
+>
+> | | 移転後 |
+> |---|---|
+> | GitHub | `mayu119/knowledge` → `product-knowledge/` |
+> | Mac mini | `~/repos/knowledge/product-knowledge` |
+>
+> 書き足すときは `~/repos/knowledge` で編集して commit → `git push origin main`。
+> 手順は移転先の `CLAUDE.md`、移転の記録は `REPORT-switch-20261015.md`。
+>
+> **repoを消していないのは**、外部に出したリンクが生きているためと、
+> 別マシン（MacBook等）に未pushのcommitが残っていた場合に拾う先が必要なため。
+> ここに新しくcommitしても、もう誰も読まない。
+
 # Product Knowledge
 
 全プロダクト横断で再利用する、プロダクト開発の知見ベース — 足場（スタック・ホスティング・認証配線）から、ドーパミン・習慣・依存設計、UI・体験まで。
